@@ -1,0 +1,24 @@
+{
+  "person": [
+    {
+      "id" : 1,
+      "name" : "cuong"
+    },
+    {
+      "id" : 2,
+      "name" : "nguyen"
+    },
+    {
+      "id" : 3,
+      "name" : "son"
+    },
+    {
+      "id" : 4,
+      "name" : "tien"
+    },
+    {
+      "id" : 5,
+      "name" : "tinh"
+    }
+  ]
+}
