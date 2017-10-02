@@ -286,5 +286,91 @@
     0,
     0
   ]
-}
+},
+"sensorDetail": [
+  {
+    "date": 42955,
+    "time": 0.3645833333333333,
+    "id": "123456TEST",
+    "channel": "NKE",
+    "name": "Température - 123456TEST",
+    "type": "Facteur d’influence (module de mesure)",
+    "parent": "Chauffage (usage)",
+    "influence": "Température",
+    "unit": "°C",
+    "configured": true
+  },
+  {
+    "date": 42776,
+    "time": 0.4479166666666667,
+    "id": "ABC12TEST",
+    "channel": "NKE",
+    "name": "ABC12TEST",
+    "type": "Facteur d’influence (module de mesure)",
+    "parent": "Chauffage (usage)",
+    "influence": "Hygrométrie",
+    "unit": "m3",
+    "configured": true
+  },
+  {
+    "date": 42776,
+    "time": 0.4479166666666667,
+    "id": "ABC12TEST",
+    "channel": "NKE",
+    "name": "ABC12TEST",
+    "type": "Facteur d’influence (module de mesure)",
+    "parent": "Chauffage (usage)",
+    "influence": "Hygrométrie",
+    "unit": "m3",
+    "configured": true
+  },
+  {
+    "date": 42776,
+    "time": 0.4479166666666667,
+    "id": "ABC12TEST",
+    "channel": "NKE",
+    "name": "ABC12TEST",
+    "type": "Facteur d’influence (module de mesure)",
+    "parent": "Chauffage (usage)",
+    "influence": "Hygrométrie",
+    "unit": "m3",
+    "configured": true
+  },
+  {
+    "date": 34095,
+    "time": 0.6145833333333334,
+    "id": "NKE-00TEST",
+    "channel": "NKE",
+    "name": "DUNG",
+    "type": "Facteur d’influence (module de mesure)",
+    "parent": "Chauffage (usage)",
+    "influence": "Autre (préciser)",
+    "unit": "kg",
+    "configured": false
+  },
+  {
+    "date": 34095,
+    "time": 0.6145833333333334,
+    "id": "NKE-00TEST",
+    "channel": "NKE",
+    "name": "DUNG",
+    "type": "Facteur d’influence (module de mesure)",
+    "parent": "Chauffage (usage)",
+    "influence": "Autre (préciser)",
+    "unit": "kg",
+    "configured": false
+  },
+  {
+    "date": 34095,
+    "time": 0.6145833333333334,
+    "id": "NKE-00TEST",
+    "channel": "NKE",
+    "name": "DUNG",
+    "type": "Facteur d’influence (module de mesure)",
+    "parent": "Chauffage (usage)",
+    "influence": "Autre (préciser)",
+    "unit": "kg",
+    "configured": false
+  }
+]
 }
