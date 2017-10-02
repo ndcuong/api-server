@@ -288,89 +288,71 @@
   ]
 },
 "sensorDetail": [
-  {
-    "date": 42955,
-    "time": 0.3645833333333333,
-    "id": "123456TEST",
-    "channel": "NKE",
-    "name": "Température - 123456TEST",
-    "type": "Facteur d’influence (module de mesure)",
-    "parent": "Chauffage (usage)",
-    "influence": "Température",
-    "unit": "°C",
-    "configured": true
-  },
-  {
-    "date": 42776,
-    "time": 0.4479166666666667,
-    "id": "ABC12TEST",
-    "channel": "NKE",
-    "name": "ABC12TEST",
-    "type": "Facteur d’influence (module de mesure)",
-    "parent": "Chauffage (usage)",
-    "influence": "Hygrométrie",
-    "unit": "m3",
-    "configured": true
-  },
-  {
-    "date": 42776,
-    "time": 0.4479166666666667,
-    "id": "ABC12TEST",
-    "channel": "NKE",
-    "name": "ABC12TEST",
-    "type": "Facteur d’influence (module de mesure)",
-    "parent": "Chauffage (usage)",
-    "influence": "Hygrométrie",
-    "unit": "m3",
-    "configured": true
-  },
-  {
-    "date": 42776,
-    "time": 0.4479166666666667,
-    "id": "ABC12TEST",
-    "channel": "NKE",
-    "name": "ABC12TEST",
-    "type": "Facteur d’influence (module de mesure)",
-    "parent": "Chauffage (usage)",
-    "influence": "Hygrométrie",
-    "unit": "m3",
-    "configured": true
-  },
-  {
-    "date": 34095,
-    "time": 0.6145833333333334,
-    "id": "NKE-00TEST",
-    "channel": "NKE",
-    "name": "DUNG",
-    "type": "Facteur d’influence (module de mesure)",
-    "parent": "Chauffage (usage)",
-    "influence": "Autre (préciser)",
-    "unit": "kg",
-    "configured": false
-  },
-  {
-    "date": 34095,
-    "time": 0.6145833333333334,
-    "id": "NKE-00TEST",
-    "channel": "NKE",
-    "name": "DUNG",
-    "type": "Facteur d’influence (module de mesure)",
-    "parent": "Chauffage (usage)",
-    "influence": "Autre (préciser)",
-    "unit": "kg",
-    "configured": false
-  },
-  {
-    "date": 34095,
-    "time": 0.6145833333333334,
-    "id": "NKE-00TEST",
-    "channel": "NKE",
-    "name": "DUNG",
-    "type": "Facteur d’influence (module de mesure)",
-    "parent": "Chauffage (usage)",
-    "influence": "Autre (préciser)",
-    "unit": "kg",
-    "configured": false
-  }
+ {
+   "timestamp": 1506937378,
+   "id": "123456TEST",
+   "channel": "NKE",
+   "name": "Température - 123456TEST",
+   "type": "Facteur d’influence (module de mesure)",
+   "parent": "Chauffage (usage)",
+   "influence": "Température",
+   "unit": "°C",
+   "configured": true
+ },
+ {
+   "timestamp": 1506937378,
+   "id": "ABC12TEST",
+   "channel": "NKE",
+   "name": "ABC12TEST",
+   "type": "Facteur d’influence (module de mesure)",
+   "parent": "Chauffage (usage)",
+   "influence": "Hygrométrie",
+   "unit": "m3",
+   "configured": true
+ },
+ {
+   "timestamp": 1506937378,
+   "id": "NKE-00TEST",
+   "channel": "NKE",
+   "name": "DUNG",
+   "type": "Facteur d’influence (module de mesure)",
+   "parent": "Chauffage (usage)",
+   "influence": "Autre (préciser)",
+   "unit": "kg",
+   "configured": true
+ },
+ {
+   "timestamp": 1506937378,
+   "id": "DUNG.000",
+   "channel": "HOME",
+   "name": "KATERA - XXX",
+   "type": "Facteur d’influence (module de mesure)",
+   "parent": "Chauffage (usage)",
+   "influence": "Température",
+   "unit": "°C",
+   "configured": true
+ },
+ {
+   "timestamp": 1506937378,
+   "id": "DUNG.001",
+   "channel": "HOME",
+   "name": "KATERA - XXX",
+   "type": "Facteur d’influence (module de mesure)",
+   "parent": "Chauffage (usage)",
+   "influence": "Hygrométrie",
+   "unit": "°C",
+   "configured": true
+ },
+ {
+   "timestamp": 1506937378,
+   "id": "DUNG.002",
+   "channel": "HOME",
+   "name": "KATERA - XXX",
+   "type": "Facteur d’influence (module de mesure)",
+   "parent": "Chauffage (usage)",
+   "influence": "Autre (préciser)",
+   "unit": "°C",
+   "configured": false
+ }
 ]
 }
